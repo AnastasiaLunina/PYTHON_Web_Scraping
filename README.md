@@ -7,5 +7,5 @@ Print result in following format: <date> - <header> - <link>
   
 ```python
 
-KEYWORDS = ['дизайн', 'фото', 'web', 'python']
+KEYWORDS = ['design', 'photo', 'web', 'python']
 ```
